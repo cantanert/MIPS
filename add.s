@@ -6,7 +6,7 @@
 		#Text Section
 		.text
 
-		.globl my_main
+	.globl my_main
 
 my_main:
 	#main kodları buraya
@@ -28,6 +28,7 @@ my_main:
 
 
 	add $t3, $t1, $t2
-		#Programdan çıkış
-		li $v0,10
-		syscall
+	
+	#Programdan çıkış
+	li $v0,10
+	syscall
