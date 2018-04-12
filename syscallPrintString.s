@@ -1,13 +1,13 @@
-		.data
+			.data
 
 Name:		.asciiz		"Can Taner\n\n"
 Course: 	.asciiz		"COMU C.E\n"
 Lab: 		.asciiz     "asd qwe 1234 lab"
-NL:			.asciiz		"\n"
+NL:		.asciiz		"\n"
 Date: 		.asciiz		"AA/GG/YYYY\n\n"
 Cikis:		.asciiz		"Programdan Çıkış\n"
 
-		.text
+			.text
 		.globl mY_main
 
 mY_main:
