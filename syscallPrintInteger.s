@@ -1,11 +1,11 @@
-		.data
+			.data
 
 Baslik:		.asciiz		"Konsola Integer yazdırma \n\n"
 NL: 		.asciiz		"\n"
 Cikis: 		.asciiz		"Programdan çıkış\n"
 
 		
-		.text	
+			.text	
 
 		.globl my_main
 
