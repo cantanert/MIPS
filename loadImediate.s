@@ -42,7 +42,7 @@
 
 		
 		li $t9, 0x123456789   #Load Imediate
-							  #1 görmezden gelinir
+				      #1 görmezden gelinir
 
 
 		#Programdan çıkış
