@@ -18,3 +18,7 @@ my_main:
 
 		li $v0, 10
 		syscall
+		
+# lw ve sw komutları birbirinden tam zıt çalışan komutlardır.
+# lw(Load Word), bellekten registera doğru işlem yaparken,
+# sw(Store Word), registerdan belleğe doğru işlem yapar.
